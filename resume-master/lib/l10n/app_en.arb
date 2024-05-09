@@ -1,0 +1,15 @@
+{
+    "profileTitle": "Curriculum Vitae",
+    "name": "Chayma Hadded",
+    "job": "SOFTWARE ENGINEERING STUDENT",
+    "location": "Route Sidi Mansour, km 12, Sfax, Tunisia",
+    "summary": "As a software engineering student, I aim to apply my technical skills and constant thirst for knowledge to contribute to the development of innovative projects and provide efficient solutions in this field.",
+    "selectedLanguage": "Selected Language",
+    "enLanguage": "English",
+    "frLanguage": "Frensh",
+    "skills": "Skills",
+    "personalInformation": "Personal Information",
+    "email": "Email",
+    "password": "Password",
+    "save": "Save"
+}

@@ -1,0 +1,15 @@
+{
+    "profileTitle": "Curriculum Vitae",
+    "name": "Chayma Hadded",
+    "job": "ÉTUDIANTE EN GÉNIE LOGICIEL ET INFORMATIQUE DÉCISIONNEL",
+    "location": "Route Sidi Mansour, km 12, Sfax, Tunisie",
+    "summary": "Étudiante passionnée par le génie logiciel et l'informatique décisionnelle, je souhaite mettre en pratique mes compétences techniques et ma soif constante de connaissances pour contribuer au développement de projets innovants et offrir des solutions performantes dans ce domaine.",
+    "selectedLanguage": "Langue sélectionnée",
+    "enLanguage": "Anglais",
+    "frLanguage": "Français",
+    "skills": "Compétences",
+    "personalInformation": "Informations personnelles",
+    "email": "Email",
+    "password": "Mot de passe",
+    "save": "Enregistrer"
+}

@@ -1,0 +1,15 @@
+{
+    "profileTitle": "Curriculum Vitae",
+    "name": "Fedi Abdelhedi",
+    "job": "ÉTUDIANT EN GÉNIE LOGICIEL ET INFORMATIQUE DÉCISIONNEL",
+    "location": "Route L'affrane, km 8, Sfax, Tunisie",
+    "summary": "En tant qu'étudiant en génie logiciel passionné, je suis extrêmement compétitif, motivé et résolument engagé vers l'excellence. Je prospère dans la résolution innovante de problèmes et je suis prêt à contribuer efficacement au succès de votre équipe.",
+    "selectedLanguage": "Langue sélectionnée",
+    "enLanguage": "Anglais",
+    "frLanguage": "Français",
+    "skills": "Compétences",
+    "personalInformation": "Informations personnelles",
+    "email": "Email",
+    "password": "Mot de passe",
+    "save": "Enregistrer"
+}
